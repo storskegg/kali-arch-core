@@ -1,7 +1,7 @@
 # Maintainer: Liam Conrad <https://storskegg.github.io>
 
 pkgname=kali-arch-core
-pkgdesc=""
+pkgdesc="Base Kali Linux System – core items that are always included"
 pkgver=0.0.1
 pkgrel=1
 
